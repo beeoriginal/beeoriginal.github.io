@@ -1,5 +1,5 @@
-# test
+# BeeOriginal
 
-The most advanced responsive front-end framework in the world.
+Kurser for uddannelsesinteresseret
 
 Auto commited via [Mixture](http://mixture.io)
