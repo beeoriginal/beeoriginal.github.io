@@ -1,5 +1,5 @@
-# BeeOriginal
+# BeeOriginal - Work in progress
 
-Kurser for uddannelsesinteresseret
+Just a temporary landingsite for the company
 
 Auto commited via [Mixture](http://mixture.io)

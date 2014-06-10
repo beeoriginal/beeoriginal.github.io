@@ -4726,3 +4726,13 @@ th.hide-for-touch {
 
 .touch th.show-for-touch {
   display: table-cell !important; }
+
+.logo {
+  text-align: center; }
+  .logo img {
+    width: 400px; }
+
+.body h1 {
+  text-align: center; }
+  .body h1 span {
+    color: #FFE000; }
